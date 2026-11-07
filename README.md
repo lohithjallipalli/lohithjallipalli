@@ -1,7 +1,7 @@
 # Hi there, I'm Lohith Jallipalli 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=450&lines=Aspiring+Software+Developer;MERN+Stack+Enthusiast;AI+%26+Data+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=ServiceNow+Administrator%2FDeveloper;Aspiring+Software+Developer;AI+%26+Data+Science+Graduate;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,23 +23,33 @@
 
 ### 💫 About Me
 
-I am a passionate software developer and a recent graduate in **Artificial Intelligence & Data Science**. I love building scalable applications, designing beautiful user interfaces, and solving algorithmic problems. 
+I am a passionate software developer and recent graduate in **Artificial Intelligence & Data Science**. I specialize in **ServiceNow administration & development** and full-stack software engineering, building scalable applications, designing intuitive user experiences, and tackling complex algorithmic challenges.
 
 - 🎓 **B.Tech** in Artificial Intelligence & Data Science
 - 📊 **CGPA:** 8.64 / 10
-- 🧩 **Focus:** Data Structures, Algorithms, and Software Engineering
-- 🚀 **Current Goal:** Actively seeking Software Developer opportunities to build impactful products
+- 🧩 **Focus:** ServiceNow, Data Structures & Algorithms, Software Engineering, and Full-Stack Development
+- 🚀 **Current Goal:** Actively seeking Software Developer & ServiceNow roles to build impactful products
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <details open>
+<summary><b>ServiceNow</b></summary>
+<p>
+  <img src="https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=81B5A1" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Administration_Fundamentals-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="Administration Fundamentals" />
+  <img src="https://img.shields.io/badge/Scripting_Fundamentals-293E40?style=for-the-badge&logo=javascript&logoColor=white" alt="Scripting Fundamentals" />
+  <img src="https://img.shields.io/badge/ITSM_Fundamentals-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ITSM Fundamentals" />
+</p>
+</details>
+
+<details open>
 <summary><b>Languages & Core</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 </details>
@@ -59,7 +69,6 @@ I am a passionate software developer and a recent graduate in **Artificial Intel
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
@@ -70,6 +79,7 @@ I am a passionate software developer and a recent graduate in **Artificial Intel
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
@@ -78,6 +88,11 @@ I am a passionate software developer and a recent graduate in **Artificial Intel
 ---
 
 ### 📂 Featured Projects
+
+*   **[LeaveFlow - ServiceNow](https://github.com/lohithjallipalli/LeaveFlow-ServiceNow)**
+    *   *Description:* An automated leave management application built on ServiceNow to streamline employee leave requests and manager approval workflows.
+    *   *Tech Stack:* ServiceNow (Now Platform), Client Scripts, Business Rules, Flow Designer, UI Policies, Notifications.
+    *   *Features:* Custom table architecture, multi-tier automated approval workflows, dynamic client-side validations, role-based access control, and automated notifications.
 
 *   **[Pro-Man](https://github.com/lohithjallipalli/Pro-Man)**
     *   *Description:* A premium task management application featuring drag-and-drop workflow boards.
