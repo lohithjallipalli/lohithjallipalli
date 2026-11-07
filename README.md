@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/lohithj-380102200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://learning.servicenow.com/lxp?id=nl_public&user=lohith8919344860" target="_blank">
+    <img src="https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=81B5A1" alt="ServiceNow" />
+  </a>
   <a href="https://leetcode.com/u/lohithJallipalli/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
