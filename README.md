@@ -102,7 +102,7 @@ I am a passionate software developer and recent graduate in **Artificial Intelli
     *   *Tech Stack:* React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, React Beautiful DnD.
     *   *Features:* Interactive project boards, customizable task cards, robust drag-and-drop prioritization, and clean, responsive UI layouts.
 
-*   **[Live Portfolio Website](https://lj-portfolio-sandy.vercel.app/)**
+*   **[Live Portfolio Website](https://lj-portfolio-delta.vercel.app/)**
     *   *Description:* Personal portfolio website showcasing skills, projects, and educational details.
     *   *Tech Stack:* React.js, Tailwind CSS, Vite.
 
